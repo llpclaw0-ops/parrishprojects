@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F3EEE4"/>
+  <g fill="none" stroke="#D6CDBC" stroke-width="1">
+    <circle cx="930" cy="315" r="220" stroke-dasharray="3 8"/>
+    <circle cx="930" cy="315" r="140" stroke-dasharray="3 8"/>
+  </g>
+  <g transform="translate(846 210)">
+    <rect x="0" y="0" width="168" height="168" rx="42" fill="#16130E"/>
+    <rect x="2" y="2" width="164" height="164" rx="40" fill="none" stroke="#F3EEE4" stroke-opacity=".16" stroke-width="3"/>
+    <text x="30" y="108" font-family="Georgia, serif" font-size="86" font-weight="800" letter-spacing="-11" fill="#F3EEE4">P</text>
+    <text x="84" y="108" font-family="Georgia, serif" font-size="86" font-weight="800" letter-spacing="-11" fill="#EB4D22">P</text>
+    <path d="M38 128h92" stroke="#F3EEE4" stroke-opacity=".18" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="90" y="200" font-family="Georgia, serif" font-size="44" fill="#837C70">Parrish Projects — Systems studio</text>
+  <text x="86" y="320" font-family="Georgia, serif" font-size="104" fill="#16130E">We build the</text>
+  <text x="86" y="430" font-family="Georgia, serif" font-size="104" fill="#16130E">systems your</text>
+  <text x="86" y="540" font-family="Georgia, serif" font-size="104" fill="#16130E">business <tspan font-style="italic" fill="#B8350F">runs on.</tspan></text>
+</svg>
