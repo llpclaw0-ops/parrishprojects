@@ -35,14 +35,14 @@
     ::selection{background:var(--accent);color:#fff}
     :focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
     .shell{width:100%;max-width:var(--maxw);margin-inline:auto;padding-inline:var(--gutter)}
-    .nav{position:sticky;top:0;z-index:50;background:rgba(243,238,228,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+    .nav{position:sticky;top:0;z-index:50;background:rgba(243,238,228,.85);backdrop-filter:blur(12px);box-shadow:0 10px 30px rgba(22,19,14,.04)}
     .nav__in{display:flex;align-items:center;justify-content:space-between;height:64px}
     .nav__brand{display:flex;align-items:center;gap:.6rem;font-family:var(--serif);font-size:1.15rem;font-weight:500}
     .nav__brand img{width:28px;height:28px}
     .nav__cta{font-family:var(--mono);font-size:.8rem;letter-spacing:.04em;text-transform:uppercase;border:1px solid var(--ink);border-radius:100px;padding:.6em 1.1em;min-height:40px;display:inline-flex;align-items:center;transition:all .25s}
     .nav__cta:hover{background:var(--ink);color:var(--paper)}
     .eyebrow{font-family:var(--mono);font-size:.78rem;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-3);display:inline-flex;align-items:center;gap:.6em}
-    .eyebrow::before{content:'';width:28px;height:1px;background:var(--accent)}
+    .eyebrow::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--accent)}
     .crumb{font-family:var(--mono);font-size:.78rem;color:var(--ink-3);padding:1.6rem 0 0}
     .crumb a:hover{color:var(--accent-ink)}
     .hero{padding:clamp(2.5rem,7vw,5rem) 0 clamp(2rem,5vw,3.5rem)}
@@ -50,7 +50,7 @@
     .hero p{font-size:clamp(1.05rem,2.2vw,1.25rem);color:var(--ink-2);max-width:60ch}
     .btn{display:inline-flex;align-items:center;gap:.5em;background:var(--accent);color:#fff;font-weight:500;border-radius:100px;padding:.85em 1.5em;min-height:48px;margin-top:1.8rem;transition:transform .25s,background .25s}
     .btn:hover{background:var(--accent-ink);transform:translateY(-1px)}
-    .sec{padding:clamp(2rem,5vw,3.2rem) 0;border-top:1px solid var(--line)}
+    .sec{padding:clamp(2rem,5vw,3.2rem) 0}
     .sec h2{font-family:var(--serif);font-weight:400;font-size:clamp(1.5rem,3.5vw,2.1rem);line-height:1.15;margin-bottom:1rem;max-width:24ch}
     .sec p{color:var(--ink-2);max-width:68ch;margin-bottom:1rem}
     .grid{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin-top:1.5rem}
@@ -59,8 +59,8 @@
     .card h3{font-family:var(--serif);font-weight:500;font-size:1.2rem;margin-bottom:.4rem}
     .card p{font-size:.96rem;margin:0;color:var(--ink-2)}
     .faq{margin-top:1.5rem}
-    .faq details{border-top:1px solid var(--line);padding:1.1rem 0}
-    .faq details:last-child{border-bottom:1px solid var(--line)}
+    .faq details{background:var(--card);border-radius:14px;padding:1.1rem 1.2rem;margin-bottom:.75rem}
+    .faq details:last-child{margin-bottom:0}
     .faq summary{font-family:var(--serif);font-size:1.15rem;cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:1rem;min-height:32px}
     .faq summary::-webkit-details-marker{display:none}
     .faq summary::after{content:'+';color:var(--accent);font-family:var(--mono);font-size:1.4rem;line-height:1}
@@ -71,12 +71,12 @@
     .related a:hover{border-color:var(--ink);color:var(--ink)}
     .legal__list{margin:.4rem 0 1rem;padding-left:1.3rem;list-style:disc;color:var(--ink-2)}
     .legal__list li{margin-bottom:.4rem;max-width:64ch}
-    .sec a{color:var(--accent-ink);text-decoration:underline;text-underline-offset:2px}
+    .sec a{color:var(--accent-ink);text-decoration:none;font-weight:500}
     .cta-band{background:var(--ink);color:var(--paper);border-radius:24px;padding:clamp(2rem,5vw,3.2rem);margin:clamp(2.5rem,6vw,4rem) 0;text-align:center}
     .cta-band h2{font-family:var(--serif);font-weight:380;font-size:clamp(1.6rem,4vw,2.4rem);margin-bottom:.6rem;border:0}
     .cta-band p{color:rgba(243,238,228,.7);max-width:48ch;margin:0 auto 1.4rem}
     .cta-band .btn{margin-top:0}
-    .foot{border-top:1px solid var(--line);padding:2.5rem 0;font-size:.85rem;color:var(--ink-3)}
+    .foot{padding:2.5rem 0;font-size:.85rem;color:var(--ink-3)}
     .foot a:hover{color:var(--accent-ink)}
     .foot__links{display:flex;flex-wrap:wrap;gap:1.2rem;margin-bottom:1rem}
   </style>
