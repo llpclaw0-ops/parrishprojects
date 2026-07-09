@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Parrish Projects improved website logo image 03">
+  <title>Parrish Projects improved website logo image 03: Premium website mark</title>
+
+  <defs>
+    <linearGradient id="bg" x1="11" y1="8" x2="86" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33271B"/>
+      <stop offset="0.45" stop-color="#18120D"/>
+      <stop offset="1" stop-color="#090706"/>
+    </linearGradient>
+    <radialGradient id="warm" cx="72" cy="20" r="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF6A3D" stop-opacity="0.26"/>
+      <stop offset="0.44" stop-color="#B8350F" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#B8350F" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="softCenter" cx="46" cy="44" r="52" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.035"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="red" x1="44" y1="26" x2="76" y2="72" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FF7A45"/>
+      <stop offset="0.58" stop-color="#EA4D22"/>
+      <stop offset="1" stop-color="#A8320E"/>
+    </linearGradient>
+    <filter id="iconShadow" x="-26%" y="-26%" width="152%" height="152%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="9" flood-color="#110C08" flood-opacity="0.32"/>
+    </filter>
+    <filter id="letterLift" x="-8%" y="-8%" width="116%" height="116%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="2" stdDeviation="0.8" flood-color="#050302" flood-opacity="0.26"/>
+    </filter>
+  </defs>
+
+  <rect x="5" y="5" width="86" height="86" rx="24" fill="url(#bg)" filter="url(#iconShadow)"/>
+  <rect x="5" y="5" width="86" height="86" rx="24" fill="url(#warm)"/>
+  <rect x="5" y="5" width="86" height="86" rx="24" fill="url(#softCenter)"/>
+  <rect x="6.25" y="6.25" width="83.5" height="83.5" rx="22.75" fill="none" stroke="#F8EFE4" stroke-opacity="0.145" stroke-width="1.35"/>
+
+  <text x="14" y="68.2" font-family="Fraunces, Georgia, serif" font-size="51.5" font-weight="900" letter-spacing="-5.95" fill="#F8F0E6" filter="url(#letterLift)">P</text>
+  <text x="43.6" y="68.2" font-family="Fraunces, Georgia, serif" font-size="51.5" font-weight="900" letter-spacing="-5.95" fill="url(#red)" filter="url(#letterLift)">P</text>
+  <path d="M23 76.4H73" stroke="#FF7342" stroke-opacity="0.33" stroke-width="2.25" stroke-linecap="round"/>
+  <circle cx="75" cy="23" r="2.45" fill="#FF7A45" opacity="0.68"/>
+
+</svg>
