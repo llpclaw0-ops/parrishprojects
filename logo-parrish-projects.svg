@@ -1,30 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 132" role="img" aria-label="Parrish Projects">
-  <title>Parrish Projects</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 132" role="img" aria-label="Parrish Projects">
   <defs>
-    <linearGradient id="pp-bg" x1="24" y1="20" x2="104" y2="116" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#332718"/>
-      <stop offset="0.48" stop-color="#17120d"/>
-      <stop offset="1" stop-color="#080706"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#292218"/>
+      <stop offset="1" stop-color="#0c0a08"/>
     </linearGradient>
-    <radialGradient id="pp-glow" cx="88" cy="34" r="70" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#EB4D22" stop-opacity="0.30"/>
-      <stop offset="0.46" stop-color="#EB4D22" stop-opacity="0.08"/>
-      <stop offset="1" stop-color="#EB4D22" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="pp-accent" x1="64" y1="45" x2="98" y2="87" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#FF7A45"/>
-      <stop offset="1" stop-color="#B8350F"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff7342"/>
+      <stop offset="1" stop-color="#b8350f"/>
     </linearGradient>
   </defs>
-  <g transform="translate(10 18)">
-    <rect x="0" y="0" width="96" height="96" rx="26" fill="url(#pp-bg)"/>
-    <rect x="0" y="0" width="96" height="96" rx="26" fill="url(#pp-glow)"/>
-    <rect x="1.5" y="1.5" width="93" height="93" rx="24.5" fill="none" stroke="#F3EEE4" stroke-opacity="0.13" stroke-width="2"/>
-    <path d="M27 72V24.5H48.5C61.5 24.5 69.5 31.9 69.5 43C69.5 54.2 61.5 61.6 48.5 61.6H38.2" fill="none" stroke="#F3EEE4" stroke-width="9.2" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M47.5 72V31.2H62.8C73 31.2 79.2 37.2 79.2 46.2C79.2 55.3 73 61.2 62.8 61.2H57.6" fill="none" stroke="url(#pp-accent)" stroke-width="8.4" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="28" cy="24.5" r="4.6" fill="#F3EEE4"/>
-    <circle cx="48.2" cy="31.2" r="4.2" fill="#FF7A45"/>
-  </g>
-  <text x="136" y="62" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="42" font-weight="650" letter-spacing="-.8" fill="#16130E">Parrish Projects</text>
-  <text x="139" y="92" font-family="Inter, Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2" fill="#837C70">SYSTEMS STUDIO</text>
+  <rect x="10" y="18" width="96" height="96" rx="24" fill="url(#bg)"/>
+  <rect x="11" y="19" width="94" height="94" rx="23" fill="none" stroke="#f3eee4" stroke-opacity=".16" stroke-width="2"/>
+  <text x="29" y="78" font-family="Fraunces, Georgia, serif" font-size="50" font-weight="850" letter-spacing="-6" fill="#f3eee4">P</text>
+  <text x="59" y="78" font-family="Fraunces, Georgia, serif" font-size="50" font-weight="850" letter-spacing="-6" fill="url(#accent)">P</text>
+  <path d="M30 88h52" stroke="#f3eee4" stroke-opacity=".18" stroke-width="2" stroke-linecap="round"/>
+  <text x="136" y="62" font-family="Fraunces, Georgia, serif" font-size="42" font-weight="650" letter-spacing="-.8" fill="#16130e">Parrish Projects</text>
+  <text x="139" y="91" font-family="Inter, Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3.2" fill="#837c70">SYSTEMS STUDIO</text>
 </svg>
