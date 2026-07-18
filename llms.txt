@@ -1,0 +1,62 @@
+# Parrish Projects
+
+Parrish Projects is a Systems studio based in Guernsey, Channel Islands. The studio designs and builds business automation, web and app products, integrations, lead recovery systems, dashboards and ongoing care for businesses in Guernsey, the Channel Islands, the United Kingdom and Europe.
+
+Primary website: https://parrishprojects.com/
+Contact email: lewis@parrishprojects.com
+Phone and WhatsApp: +44 7781 407872
+LinkedIn: https://www.linkedin.com/in/lewis-parrish-8b89823bb/
+Founder: Lewis Parrish, Founder & Engineer
+
+## What Parrish Projects does
+
+- Automation: AI and workflow automation that does the boring, repetitive work for you, accurately, around the clock.
+- Product & Web: Websites, web apps and mobile apps, designed and built to a senior standard, fast and maintainable.
+- Integrations: We wire your tools together so data flows cleanly, with no more copy-paste between systems.
+- Lead Systems: Capture every enquiry and automatically chase the ones that go cold, so no revenue slips through.
+- Data & Dashboards: Live dashboards and reporting that turn scattered data into decisions you can actually act on.
+- Care & Optimise: We stay on after launch, monitoring, improving and extending your systems as you grow.
+
+## Service pages
+
+- Automation: We build AI and workflow automation that handles repetitive work accurately, around the clock. Clear estimates, first system live in about 30 days, no lock-in. URL: https://parrishprojects.com/services/automation/
+- Web & App: Senior web and app development: websites, web apps and mobile apps built fast, maintainable and without lock-in. First version live in about 30 days. URL: https://parrishprojects.com/services/web-and-app-development/
+- Integrations: We wire your tools together so data flows cleanly between them, with no more copy-paste. API integrations, CRM setup, Stripe payments and data enrichment. URL: https://parrishprojects.com/services/integrations/
+- Lead Systems: Recover missed enquiries with lead capture, instant replies and safe follow-up systems that keep prospects moving until they book or opt out. URL: https://parrishprojects.com/services/lead-recovery/
+- Dashboards: Live dashboards and reporting that turn scattered data into decisions. Pipeline analytics, KPI reporting and data enrichment, built around your business. URL: https://parrishprojects.com/services/dashboards-and-reporting/
+- Care & Support: Monitoring, maintenance and optimisation that keep your systems healthy and improving as you grow. Ongoing support without vague retainers. URL: https://parrishprojects.com/services/care-and-optimisation/
+
+## Method
+
+Parrish Projects uses a System Factory method with a Plan, Implement, Validate, Iterate loop. Method page: https://parrishprojects.com/system-factory/
+
+- Discover: We map how your business actually works today: the manual steps, the leaks, the bottlenecks, then agree what "good" looks like.
+- Design: We architect the system: the flows, the data model, the interfaces. You see exactly what we will build before a line of code.
+- Build: Senior engineering, shipped in tight increments. You watch it come together, with no black boxes and no six-month silence.
+- Test: We pressure-test against real data and real edge cases. If it can break, we break it here, not in front of your customers.
+- Launch: We roll it out carefully, train your team, and stand by while the first real traffic flows through the system.
+- Improve: Systems are never "done". We watch the numbers, find the next bottleneck, and keep compounding the gains.
+
+## Local page
+
+- Guernsey: Guernsey-based systems studio for web design, automation, integrations and lead recovery. Clean software for local firms, UK and EU teams. URL: https://parrishprojects.com/locations/guernsey/
+
+## Trust and scope boundaries
+
+- Senior, not junior: You work directly with the people building the system. No hand-offs to a delivery team you never meet.
+- Systems thinking: We don’t bolt on point solutions. We design how the whole operation should flow, then build to that.
+- Honest about scope: Clear estimates, visible progress, and a straight answer when something is a bad idea. No vague retainers.
+- Built without lock-in: Your system is documented, portable, and supportable, with ownership agreed before work starts.
+- The homepage example builds are illustrative examples, not client case studies.
+- Pricing depends on scope. The website uses a broad guide of £1k to £40k+ and gives a clear estimate before work starts.
+- Ownership and handover are agreed before work starts. The site does not promise blanket ownership of every reusable internal method, template or framework.
+- The website does not claim rankings, testimonials, named client results or guaranteed search performance.
+
+## Legal and policy pages
+
+- Privacy Notice: How Parrish Projects collects, uses and protects enquiry data shared through this website. Guernsey privacy notice, no tracking, form data only. URL: https://parrishprojects.com/privacy/
+- Terms of Use: The terms for using the Parrish Projects website. Plain English: what the site is, what you can expect, and the limits of what is published here. URL: https://parrishprojects.com/terms/
+
+## Sitemap
+
+https://parrishprojects.com/sitemap.xml

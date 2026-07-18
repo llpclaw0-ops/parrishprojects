@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+# AI-readable site summary: https://parrishprojects.com/llms.txt
 Sitemap: https://parrishprojects.com/sitemap.xml
