@@ -1,6 +1,6 @@
 # Parrish Projects
 
-Parrish Projects is a Systems studio based in Guernsey, Channel Islands. The studio designs and builds business automation, web and app products, integrations, lead recovery systems, dashboards and ongoing care for businesses in Guernsey, the Channel Islands, the United Kingdom and Europe.
+Parrish Projects is a Custom software studio based in Guernsey, Channel Islands. The studio designs and builds business automation, web and app products, integrations, lead recovery systems, dashboards and ongoing care for businesses in Guernsey, the Channel Islands, the United Kingdom and Europe.
 
 Primary website: https://parrishprojects.com/
 Contact email: lewis@parrishprojects.com
@@ -39,7 +39,7 @@ Parrish Projects uses a System Factory method with a Plan, Implement, Validate, 
 
 ## Local page
 
-- Guernsey: Guernsey-based systems studio for web design, automation, integrations and lead recovery. Clean software for local firms, UK and EU teams. URL: https://parrishprojects.com/locations/guernsey/
+- Guernsey: Guernsey-based custom software studio for web design, automation, integrations and lead recovery. Clean software for local firms, UK and EU teams. URL: https://parrishprojects.com/locations/guernsey/
 
 ## Trust and scope boundaries
 
